@@ -10,7 +10,6 @@ CModule::IncludeModule("iblock");
 	}
 
 /* *********** */
-
 ?>
 
 <div class="container" style="margin-top: 180px;font-size: 14px;">
